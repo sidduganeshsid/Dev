@@ -1,0 +1,26 @@
+/* * {
+    background-color: red;
+    font-family: "McLaren", sans-serif;
+} */
+
+body{
+    /* background-color:  ; */
+ 
+    /* background-position: 10px 10px; */
+    font-family: "McLaren", sans-serif ;
+    color: black;
+}
+
+.bootstrap{
+    height: 100vh;
+    background-image: url("../CSS/abstract-3d-perspective-indoor-wireframe-vector-design/sl_072622_51930_05.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.mclaren-regular {
+    font-family: "McLaren", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
